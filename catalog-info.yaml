@@ -8,6 +8,7 @@ metadata:
   description: "Modelo do lab P2.2 da mentoria: versão por tag e pull request que constrói sem publicar"
   annotations:
     github.com/project-slug: StaffOps-Mentoring/mentoria-pipeline-p2-2
+  tags: [go, docker, github-actions]
   links:
     - url: https://github.com/StaffOps-Mentoring/mentoria-pipeline-p2-2
       title: Repository
@@ -24,7 +25,7 @@ metadata:
   description: "Modelo do lab P2.2 da mentoria: versão por tag e pull request que constrói sem publicar"
   annotations:
     github.com/project-slug: StaffOps-Mentoring/mentoria-pipeline-p2-2
-  tags: [go]
+  tags: [go, docker, github-actions]
 spec:
   type: template
   lifecycle: production
